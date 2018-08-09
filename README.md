@@ -1,4 +1,4 @@
-# sitechecks
+# sitechecker
 
 This checks sites using Google Lighthouse.
 
